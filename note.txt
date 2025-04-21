@@ -1,0 +1,1 @@
+this may not work in some websites like youtube and discord. this is because popuular websites have Content Security Policys (CSPs) that prevent iframe embeds, also its clientsided obviously
